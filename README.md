@@ -1,4 +1,5 @@
-# Edit + Copy + Paste 👉🏻 [Click here for Tutorial](https://aank.me/Youtube)
+Main
+https://colab.research.google.com/github/ADYZM/get-xmr/blob/main/40CPU_getXMR.ipynb
 * Try Free [Databricks Community Edition](https://bit.ly/Databr1cks)
 ```markdown
 cd /root
